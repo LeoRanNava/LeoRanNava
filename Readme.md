@@ -96,22 +96,6 @@ Me enfoco en construir proyectos reales mientras sigo aprendiendo y creciendo pr
 
 ---
 
-## 🐍 Snake Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LeoRanNava/LeoRanNava/output/github-contribution-grid-snake.svg"/>
-</p>
-
-## 🟡 Pacman Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LeoRanNava/LeoRanNava/output/pacman-contribution-graph.svg"/>
-</p>
-
-👉 Convierte tu actividad en un juego tipo Pacman :contentReference[oaicite:1]{index=1}  
-
----
-
 ## 📊 Estadísticas
 
 <p align="center">
