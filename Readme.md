@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Leonardo%20Rangel%20Nava&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- TYPING EFFECT -->
+<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Creativo+Digital;Construyendo+proyectos+reales;Siempre+aprendiendo+nuevas+tecnologías"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Creativo+Digital;Construyendo+proyectos+reales;Siempre+aprendiendo"/>
 </p>
 
 <h1 align="center">Hola 👋, soy Leonardo</h1>
@@ -17,7 +17,7 @@
 
 <p align="center">
 Apasionado por la tecnología, el desarrollo de software y la creación de soluciones digitales.<br>
-Me enfoco en construir proyectos funcionales mientras continúo aprendiendo y mejorando mis habilidades.
+Me enfoco en construir proyectos reales mientras sigo aprendiendo y creciendo profesionalmente.
 </p>
 
 ---
@@ -48,9 +48,6 @@ Me enfoco en construir proyectos funcionales mientras continúo aprendiendo y me
   <a href="https://instagram.com/_leo_rana_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/LeoRanNava">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -63,24 +60,67 @@ Me enfoco en construir proyectos funcionales mientras continúo aprendiendo y me
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos
 
+### 🔹 API REST
 <p align="center">
   <a href="https://github.com/LeoRanNava/p03_apirest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoRanNava&repo=p03_apirest&theme=tokyonight&hide_border=true"/>
   </a>
+</p>
+
+<p align="center">
+📌 Desarrollo de API REST con estructura backend y manejo de datos  
+</p>
+
+---
+
+### 🔹 Proyecto Fork
+<p align="center">
   <a href="https://github.com/LeoRanNava/p02_fork">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoRanNava&repo=p02_fork&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
+
+<p align="center">
+📌 Manejo de repositorios, control de versiones y colaboración en GitHub  
+</p>
+
+---
+
+## 🎥 Demo Visual (GIF)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 🐍 Snake Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeoRanNava/LeoRanNava/output/github-contribution-grid-snake.svg"/>
+</p>
+
+👉 Este snake se genera automáticamente con acciones de GitHub :contentReference[oaicite:0]{index=0}  
+
+---
+
+## 🟡 Pacman Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeoRanNava/LeoRanNava/output/pacman-contribution-graph.svg"/>
+</p>
+
+👉 Convierte tu actividad en un juego tipo Pacman :contentReference[oaicite:1]{index=1}  
 
 ---
 
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoRanNava&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF"/>
-  <img src="https://streak-stats.demolab.com/?user=LeoRanNava&theme=tokyonight&hide_border=true&ring=00F7FF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoRanNava&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=LeoRanNava&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
