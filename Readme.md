@@ -1,29 +1,38 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Leonardo%20Rangel%20Nava&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Leonardo%20Rangel%20Nava&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Creativo+Digital;Construyendo+proyectos+reales;Siempre+aprendiendo+nuevas+tecnologías"/>
 </p>
 
 <h1 align="center">Hola 👋, soy Leonardo</h1>
-<h3 align="center">Desarrollador de Software | Web | Creativo Digital 🇲🇽</h3>
+<h3 align="center">💻 Software Developer | 🎨 Creativo Digital | 🇲🇽 México</h3>
 
 ---
 
-## 🚀 Sobre mí
+## 🧠 Sobre mí
 
-🔭 Actualmente trabajando en  
-Proyectos de desarrollo web y software  
+<p align="center">
+Apasionado por la tecnología, el desarrollo de software y la creación de soluciones digitales.<br>
+Me enfoco en construir proyectos funcionales mientras continúo aprendiendo y mejorando mis habilidades.
+</p>
 
-👯 Busco colaborar en  
-Equipos de desarrollo y proyectos innovadores  
+---
 
-🌱 Actualmente aprendiendo  
-Desarrollo backend, bases de datos, buenas prácticas de programación y mejorando mi inglés técnico  
+## 🚀 Actividad
 
-💬 Pregúntame sobre  
-Programación, desarrollo web y creación de proyectos desde cero  
+<div align="center">
 
-⚡ Dato curioso  
-Desarrollador 💻 | Bailarín 🕺 | Creativo digital 🎨  
+🔭 Desarrollo web y software  
+🤝 Colaboración en proyectos tecnológicos  
+🌱 Aprendiendo backend, bases de datos y buenas prácticas  
+💬 Programación y desarrollo web  
+⚡ Desarrollador 💻 | Bailarín 🕺 | Creativo 🎨  
+
+</div>
 
 ---
 
@@ -31,16 +40,16 @@ Desarrollador 💻 | Bailarín 🕺 | Creativo digital 🎨
 
 <p align="center">
   <a href="mailto:nava.rangelleonardo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/leonardo-rangel-nava-aa8b1a287/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/_leo_rana_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/LeoRanNava">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -48,55 +57,30 @@ Desarrollador 💻 | Bailarín 🕺 | Creativo digital 🎨
 
 ## 💻 Tecnologías
 
-### 🧠 Lenguajes
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### 🌐 Desarrollo Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Datos
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧰 Herramientas
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🎨 Diseño & Creatividad
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,postgres,git,docker,figma&theme=dark"/>
+</p>
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-🔹 **Sistema Web**  
-📌 Aplicación web con funcionalidades completas y diseño responsivo  
-🔗 https://github.com/LeoRanNava/TU-REPO-1  
-
-🔹 **App con IA**  
-📌 Clasificador de imágenes con modelos de aprendizaje automático  
-🔗 https://github.com/LeoRanNava/TU-REPO-2  
-
-🔹 **Proyectos en C**  
-📌 Lógica, estructuras de datos y resolución de problemas  
-🔗 https://github.com/LeoRanNava/TU-REPO-3  
+<p align="center">
+  <a href="https://github.com/LeoRanNava/p03_apirest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoRanNava&repo=p03_apirest&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/LeoRanNava/p02_fork">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoRanNava&repo=p02_fork&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoRanNava&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=LeoRanNava&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoRanNava&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF"/>
+  <img src="https://streak-stats.demolab.com/?user=LeoRanNava&theme=tokyonight&hide_border=true&ring=00F7FF"/>
 </p>
 
 <p align="center">
@@ -105,6 +89,15 @@ Desarrollador 💻 | Bailarín 🕺 | Creativo digital 🎨
 
 ---
 
-## ⚡ Frase
+## ⚡ Filosofía
 
-_"La disciplina supera al talento cuando el talento no es constante."_ 💪
+<p align="center">
+  <i>"La disciplina supera al talento cuando el talento no es constante."</i>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
+</p>
