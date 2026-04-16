@@ -102,10 +102,6 @@ Me enfoco en construir proyectos reales mientras sigo aprendiendo y creciendo pr
   <img src="https://raw.githubusercontent.com/LeoRanNava/LeoRanNava/output/github-contribution-grid-snake.svg"/>
 </p>
 
-👉 Este snake se genera automáticamente con acciones de GitHub :contentReference[oaicite:0]{index=0}  
-
----
-
 ## 🟡 Pacman Contributions
 
 <p align="center">
