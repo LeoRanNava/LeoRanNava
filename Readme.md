@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 SOBRE MI:
 🔭 Actualmente trabajando en<br>Proyectos de desarrollo web y software<br><br>👯 Busco colaborar en<br>Equipos de desarrollo y proyectos innovadores<br><br>🌱 Actualmente aprendiendo<br>Backend, ciberseguridad, buenas prácticas de desarrollo, bases de datos y mejorando mi inglés técnico<br><br>💬 Pregúntame sobre<br>Programación, desarrollo web y creación de proyectos desde cero<br><br>⚡ Dato curioso<br>Desarrollador 💻 | Bailarín 🕺
 
 
